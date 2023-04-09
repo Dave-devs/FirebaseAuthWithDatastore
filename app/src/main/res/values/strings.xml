@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FirebaseAuth With Datastore</string>
+    <string name="sign_up">Sign up</string>
+    <string name="get_started">Get Started</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_pass">Forget password?</string>
+    <string name="login">Log in</string>
+    <string name="have_acct">Already have an account?</string>
+    <string name="no_acct">Don\'t have an account?</string>
+    <string name="terms_cond">I agree with Terms and Conditions</string>
+    <string name="name">Name</string>
+    <string name="placeholder_name">Enter your name</string>
+    <string name="email">Email</string>
+    <string name="placeholder_email">example@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="placeholder_password">at least 8 characters</string>
+    <string name="toggled_password">**********</string>
+    <string name="google_logo">Google_Logo</string>
+    <string name="facebook_logo">Facebook_Logo</string>
+    <string name="twitter_logo">Twitter_Logo</string>
+    <string name="sign_up_explore">Sign up to explore more for amazing videos</string>
+    <string name="login_welcome">Welcome back, Enter your email and password to continue</string>
+    <string name="web_client_id">1074213319826-6ak8h3d4ecmqbd8blukt1muapseivfb2.apps.googleusercontent.com</string>
+</resources>

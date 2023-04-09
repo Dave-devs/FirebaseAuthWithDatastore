@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074213319826",
+    "project_id": "fireaseauth-with-datastore",
+    "storage_bucket": "fireaseauth-with-datastore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074213319826:android:1ebd5e77cd53426ef0e24b",
+        "android_client_info": {
+          "package_name": "com.dave_devs.firebaseauthwithdatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074213319826-38hof2sc8mijvrc08ol2qj9f58sg7t66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpeO5jlGXnHr8admmJK7sO24mAUbre8QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074213319826-38hof2sc8mijvrc08ol2qj9f58sg7t66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
