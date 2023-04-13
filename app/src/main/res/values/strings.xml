@@ -1,10 +1,13 @@
 <resources>
     <string name="app_name">FirebaseAuth With Datastore</string>
+    <string name="greeting">Welcome</string>
+    <string name="place_holder">placeholder</string>
     <string name="sign_up">Sign up</string>
     <string name="get_started">Get Started</string>
     <string name="remember_me">Remember me</string>
     <string name="forget_pass">Forget password?</string>
     <string name="login">Log in</string>
+    <string name="logout">Logout</string>
     <string name="have_acct">Already have an account?</string>
     <string name="no_acct">Don\'t have an account?</string>
     <string name="terms_cond">I agree with Terms and Conditions</string>
